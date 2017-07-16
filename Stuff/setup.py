@@ -6,7 +6,7 @@ setup(
     py_modules=['palindrome'],
 
     # metadata
-    author='Fred Flintstone',
+    author='Fred Flintst',
     author_email='fred.flintstone@bedrock.com',
     description='A module for finding palindromes',
     license='Public domain',
